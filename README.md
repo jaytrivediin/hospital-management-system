@@ -119,4 +119,3 @@ git push
 
 - This repository contains the application source code; MySQL Server and the database must be configured separately on each machine.
 - Do not upload database passwords, private keys, or local IDE settings.
-- Update this README whenever setup steps, dependencies, or application features change.
